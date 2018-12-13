@@ -1,2 +1,6 @@
 # MATLABToC
 A simple tool for converting MATLAB equations (with ^ symbols and numeric literals without decimal dots) to C.
+Requires: 
+  Qt5+ due to QRegularExpression
+  
+Use at your own risk. These routines have not been thoroughly tested.
